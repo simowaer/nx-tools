@@ -1,3 +1,13 @@
+## 6.0.0-alpha.4 (2024-04-24)
+
+### 🩹 Fixes
+
+- **nx-set-shas:** bump package version ([8fedf4e](https://github.com/gperdomor/nx-tools/commit/8fedf4e))
+
+### ❤️ Thank You
+
+- Gustavo Perdomo
+
 ## 6.0.0-alpha.3 (2024-04-24)
 
 ### 🚀 Features
