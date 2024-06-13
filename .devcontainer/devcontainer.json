@@ -8,8 +8,8 @@
     "dockerfile": "Dockerfile"
   },
   "features": {
-    "ghcr.io/devcontainers/features/rust:1": {},
-    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    "ghcr.io/devcontainers/features/rust:1@sha256:aba6f47303b197976902bf544c786b5efecc03c238ff593583e5e74dfa9c7ccb": {},
+    "ghcr.io/devcontainers/features/docker-in-docker:2@sha256:503f23cd692325b3cbb8c20a0ecfabb3444b0c786b363e0c82572bd7d71dc099": {}
   },
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // 4211 = nx graph port
